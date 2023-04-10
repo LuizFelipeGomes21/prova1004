@@ -1,0 +1,27 @@
+header {
+    
+    display: inline-block;
+
+    
+}
+body{
+    display: flexbox;
+}
+h1{
+ display: ;
+}
+
+p{
+
+ text-align: left;
+}
+
+img {
+ float: right;
+ width: auto;
+ height: auto;
+}
+
+footer{
+
+}
